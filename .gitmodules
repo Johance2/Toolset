@@ -1,0 +1,6 @@
+[submodule "dep/co"]
+	path = dep/co
+	url = https://github.com/Johance2/co.git
+[submodule "dep/MiniExcel"]
+	path = dep/MiniExcel
+	url = https://github.com/Johance2/MiniExcel.git
